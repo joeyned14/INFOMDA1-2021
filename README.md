@@ -1,6 +1,6 @@
 # INFOMDA1 2021
  
-Please submit your work as an RStudio project with at least the following **folder** and file (-->) structure for assignments in the corresponding assignments folder
+Please submit your work as a pull request to this repo. Your PR should be an RStudio project with at least the following **folder** and file (-->) structure for assignments in the corresponding assignments folder
 
 ---
 
